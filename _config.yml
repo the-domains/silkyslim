@@ -1,0 +1,14 @@
+layout_spectrum: 0.472073
+color:
+  saturation: 0.3904507
+  lightness: 0.5964183
+  brandStrength: 0.1970021
+  brandColors:
+    - '#EA3131'
+    - '#EF5253'
+    - '#FFFFFF'
+    - '#F48180'
+    - '#EDCCCC'
+  rhythmicContrast: 0.6649059
+typography_spectrum: 0.6428571
+name: silkyslim
